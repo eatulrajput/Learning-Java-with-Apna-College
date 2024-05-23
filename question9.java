@@ -1,9 +1,10 @@
-public class question9 {
+// Class declaration
+public class Question9 {
+    // Main method
     public static void main(String[] args){
-        // It will print infinite times
+        // It will print "Apna College" infinitely
         for(; ;) {
             System.out.println("Apna College");
         }
-
     }
 }

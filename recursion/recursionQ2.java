@@ -1,5 +1,5 @@
 // Print sum of n natural numbers
-public class question2 {
+public class recursionQ2 {
         public static void printNumb(int n){
             if (n == 0) {
                 return;

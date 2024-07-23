@@ -1,5 +1,5 @@
 // Print number 1 to 5
-public class question1 {
+public class recursionQ1 {
     public static void printNumb(int n){
         if (n == 6) {
             return;

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class question2 {
+public class StringQ2 {
     /* Concatenation means to join to strings like first name and last name */
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);

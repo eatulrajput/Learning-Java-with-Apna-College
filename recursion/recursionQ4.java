@@ -1,5 +1,5 @@
 // Print factorial of a number n
-public class question4 {
+public class recursionQ4 {
     
     public static int calcfactorial(int n){
         if (n==1 || n==0) {

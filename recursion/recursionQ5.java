@@ -1,5 +1,5 @@
 // Print the fibonnaci sequence till nth term
-public class fibonnaci {
+public class recursionQ5 {
 
     public static void printFib(int a, int b, int n) {
         if (n == 0) {

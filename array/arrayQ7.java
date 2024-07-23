@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class question7 {
+public class arrayQ7 {
        public static void main(String args[]) {
               Scanner sc = new Scanner(System.in);
               int size = sc.nextInt();

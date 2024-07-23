@@ -8,7 +8,7 @@ email = “helloWorld123@gmail.com”; username = “helloWorld123”
  */
 import java.util.Scanner;
 
-public class question8 {
+public class StringQ8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String email = sc.next();

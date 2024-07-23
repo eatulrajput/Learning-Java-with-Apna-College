@@ -1,5 +1,5 @@
 // String are immutable, then can't be modified after creation!
-public class question5 {
+public class StringQ5 {
     public static void main(String[] args){
         // Compare
         String sentence = "My name is Tony";

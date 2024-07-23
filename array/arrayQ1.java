@@ -1,4 +1,4 @@
-public class question1 {
+public class arrayQ1 {
     public static void main(String[] args){
         // Declare and initialize an integer array 'marks' with size 3
         int[] marks = new int[3]; 

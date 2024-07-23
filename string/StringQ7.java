@@ -5,7 +5,7 @@
 * Original = “xyz” ; result = “xyz”
 */
 import java.util.Scanner;
-public class question7 {
+public class StringQ7 {
    public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
     String input = sc.next();

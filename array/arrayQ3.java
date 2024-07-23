@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class question2 {
+public class arrayQ3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        
+
         // Prompt the user to enter the size of the array
         System.out.print("Enter size of array: ");
         int size = sc.nextInt();
